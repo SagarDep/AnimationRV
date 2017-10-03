@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationWithRV</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="MyTransitionName">ImageTransition</string>
+
+    <string name="monkey">monkey</string>
+    <string name="penguins">penguins</string>
+    <string name="food">food</string>
+</resources>
